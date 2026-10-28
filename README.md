@@ -22,3 +22,6 @@ To demonstrate how structured prospect research, accurate CRM records, and repor
 
 ## Disclaimer
 This is an independent educational portfolio project, not an official Resonant Clinical Solutions project. Potential opportunities are research hypotheses and do not represent confirmed customer relationships or sales activity.
+## Sales Analytics Dashboard
+
+![Resonant Clinical Sales Dashboard](Resonant_PowerBI_Style_Dashboard.png)
